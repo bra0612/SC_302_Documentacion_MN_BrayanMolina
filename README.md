@@ -2,7 +2,7 @@
 
 Esta es mi primera práctica con GitHub - Mauro Cubero
 
-Esta es mi primera práctica con GitHub - Juan Jose
+Esta es mi primera práctica con GitHub - Juan José
 
 Esta es mi primera práctica con GitHub - Brayan Molina
 

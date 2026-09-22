@@ -1,26 +1,16 @@
 # SC\_302\_Documentacion\_JN\_Grupo1
 
 Esta es mi primera practica con Github - Mauro Cubero
+Estoy trabajando en una rama nueva.
+
 
 Esta es mi primera practica con Github - Juan Jose
+Estoy trabajando en una rama nueva.
+
 
 Esta es mi primera practica con Github - Brayan Molina
+Estoy trabajando en una rama nueva.
+
 
 Esta es mi primera practica con Github - Alexander David Echeverría Soto
-Estoy trabajando en una nueva rama
-
-
-Esta es mi primera practica con Github - Mauro Cubero 2.0
-Estoy trabajando en una nueva rama
-
-
-Esta es mi primera practica con Github - Brayan Molina
-
-
-Esta es mi primera practica con Github - Juan Jose  2.0
-
-
-
-Estoy trabajando en una nueva rama.
-
-
+Estoy trabajando en una rama nueva.
